@@ -1,0 +1,10 @@
+Dear clinet:
+
+Unusual activity has been detected on the system at {0}.
+
+Error message:
+{1}
+
+Regards, 
+
+Email automation robot
